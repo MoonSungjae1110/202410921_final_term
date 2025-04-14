@@ -7,7 +7,8 @@ import shutil
 import csv
 import io
 
-#pip install psutil
+#pip install psutil <--- 필수 설치 !!!
+
 
 # ─────────────────────────────
 # 시스템 상태 점검
